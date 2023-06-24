@@ -6,6 +6,26 @@ In this project, we worked on an exciting advancement in the field of deep learn
 
 SimSwap provides a novel and robust approach to the face swapping challenge. We decided to take this a step further by incorporating a face restoration Generative Adversarial Network (GAN) into the original framework. The addition of this face restoration GAN allows for even better preservation of facial attributes such as expression and gaze direction.
 
+## Results
+
+<table>
+  <tr>
+    <th>Face Image</th>
+    <th>Target Image</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+   <td><img src="https://drive.google.com/uc?id=1kjaFp7l5ap-hJAbkJOe4AILiVxVV9C6A" width="320px"/></td>
+   <td><img src="https://drive.google.com/uc?id=1TLJhn-xlOetf_LN5AkqRCj-6IUvNd4bt" width="320px"/></td>
+   <td><img src="https://drive.google.com/uc?id=1DYC5cN403wMqcGM8E9DoEipckkuCdY3m" width="320px"/></td>
+  </tr>
+  <tr>
+   <td><img src="https://drive.google.com/uc?id=1xyWsN2Hwtb-4QrLbJhHmNA8ac4uiR8gb" width="320px"/></td>
+   <td><img src="https://drive.google.com/uc?id=13lyD-uscyi5cJnQP1rivBWyUyE_j1Bd5" width="320px"/></td>
+   <td><img src="https://drive.google.com/uc?id=17ImpGEUmFXtqlLUPvyyLSOQTY8Oiuln_" width="320px"/></td>
+  </tr>
+</table>
+  
 ## Key Achievements
 
 - Successful implementation of SimSwap, a cutting-edge technique for face swapping.
@@ -14,14 +34,4 @@ SimSwap provides a novel and robust approach to the face swapping challenge. We 
 - Conducted extensive experimentation with real-world faces.
 - Showcased competitive identity performance, surpassing the capabilities of previous state-of-the-art methods.
 
-##Results
 
-<table>
-  <th>
-    <td>Face Image</td>
-    <td>Target Image</td>
-    <td>Output</td>
-  </th>
-  
-<tr>
-</tr>
