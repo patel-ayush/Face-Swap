@@ -7,8 +7,6 @@ In this project, we worked on an exciting advancement in the field of deep learn
 SimSwap provides a novel and robust approach to the face swapping challenge. We decided to take this a step further by incorporating a face restoration Generative Adversarial Network (GAN) into the original framework. The addition of this face restoration GAN allows for even better preservation of facial attributes such as expression and gaze direction.
 
 ## Results
-![](https://github.com/patel-ayush/Face-Swap/blob/main/faceswap_examples/iron-man-gif.gif)
-
 <table>
   <tr>
     <th>Face Image</th>
@@ -16,7 +14,7 @@ SimSwap provides a novel and robust approach to the face swapping challenge. We 
     <th>Output</th>
   </tr>
   <tr>
-   <td><img src="./faceswap_examples/srk.jpg" width="320px"/></td>
+   <td><img src="https://drive.google.com/uc?id=1kjaFp7l5ap-hJAbkJOe4AILiVxVV9C6A" width="320px"/></td>
    <td><img src="./faceswap_examples/iron-man-gif.gif" width="320px"/></td>
    <td><img src="./faceswap_examples/sqpped-iron-man-gif.gif" width="320px"/></td>
   </tr>
