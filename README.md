@@ -16,7 +16,7 @@ SimSwap provides a novel and robust approach to the face swapping challenge. We 
   <tr>
    <td><img src="https://drive.google.com/uc?id=1kjaFp7l5ap-hJAbkJOe4AILiVxVV9C6A" width="320px"/></td>
    <td><img src="./faceswap_examples/iron-man-gif.gif" width="320px"/></td>
-   <td><img src="./faceswap_examples/sqpped-iron-man-gif.gif" width="320px"/></td>
+   <td><img src="./faceswap_examples/sapped-iron-man-gif.gif" width="320px"/></td>
   </tr>
   <tr>
    <td><img src="https://drive.google.com/uc?id=1xyWsN2Hwtb-4QrLbJhHmNA8ac4uiR8gb" width="320px"/></td>
