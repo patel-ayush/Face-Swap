@@ -15,7 +15,7 @@ SimSwap provides a novel and robust approach to the face swapping challenge. We 
     <th>Output</th>
   </tr>
   <tr>
-   <td><img src="https://drive.google.com/uc?id=1kjaFp7l5ap-hJAbkJOe4AILiVxVV9C6A" width="320px"/></td>
+   <td><img src="faceswap_examples/srk.jpg" width="320px"/></td>
    <td><img src="https://drive.google.com/uc?id=1TLJhn-xlOetf_LN5AkqRCj-6IUvNd4bt" width="320px"/></td>
    <td><img src="https://drive.google.com/uc?id=1DYC5cN403wMqcGM8E9DoEipckkuCdY3m" width="320px"/></td>
   </tr>
